@@ -5,12 +5,12 @@
 My Menu at 80807 SCHWABING-MUNICH -- Version 0.1 powered by my virtue
 ### Description
 It is a user guide for how to make our christmas party fantastic
-(ok, it is nothing but just about the possible dishes that THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be inside.)
+(ok, it is nothing but a menu about the possible dishes that THE Chinese Guy gonna prepare and show you guys in advance what possible shaddy stuff can be inside.)
 
 ### What you gonna do
-The following dishes are possible dish-selection within my cooking abilities. Only a few dishes will be selected in the final around. Write dish-numbers in the [Issue](https://github.com/marcomeng1/goody-eaty/issues) that you prefer, although I decides finally the serving food. It is a life and you have to admit it, just same as the demoracy in my country.
+The following dishes are possible dish-selection within my cooking abilities. Only a few dishes will be selected in the final around. Write dish-numbers in the [Issue](https://github.com/marcomeng1/goody-eaty/issues) that you prefer, although I decide finally on dishes. Come on, stop yelling. It is just the life and you have to admit it, just same as the demoracy in my country.
 
-**!!attenzione: The following pictures are just beutifully showed in the most ideal case. The chef has the right of interpretations of final dishes! grazie!**
+**!!attenzione: The following pictures are just beutifully showed in a most ideal case. The chef has the final right of interpretations of all cooked dishes! grazie!**
 
 
 ### For meatarian 
