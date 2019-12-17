@@ -2,7 +2,7 @@
 
 >My first GitHub README file
 ---
-My Menu at 80807 SCHWABING-MUNICH -- Version 0.1 powered by my virtue
+My Menu at 80807 SCHWABING-MUNICH -- Version 0.1 powered by my internal peace and love
 ### Description
 It is a user guide for how to make our christmas party fantastic
 (ok, it is nothing but a menu about the possible dishes that THE Chinese Guy gonna prepare and show you guys in advance what possible shaddy stuff can be inside.)
