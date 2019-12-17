@@ -8,7 +8,7 @@ It is a user guide for how to make life fantastic
 (ok, it is about the possible dishes THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be inside.)
 
 ### What you gonna do
-The following dishes are possible dish-selection within my cooking abilities. Only a few dishes will be selected in the final around. Write dish-number In the Issue that you prefer, although I decides finally the serving food. It is a life and you have to admit it, just same as the demoracy in my country.
+The following dishes are possible dish-selection within my cooking abilities. Only a few dishes will be selected in the final around. Write dish-numbers in the [Issue](https://github.com/marcomeng1/goody-eaty/issues) that you prefer, although I decides finally the serving food. It is a life and you have to admit it, just same as the demoracy in my country.
 
 **!!attenzione: The following pictures are just beutifully showed in the most ideal case. The chef has the right of interpretations of final dishes! grazie!**
 
@@ -43,8 +43,10 @@ The following dishes are possible dish-selection within my cooking abilities. On
 
 ### For seafood enthusiasts
 * No.10 白酒淡菜 Mussel in White-Wine and gringer
+![Test Image 9](Dishes/mussel.jpg)
+
 * No.11 红烧或番茄虾 Shrimps in brown sauce or in tomaten sause
-![Test Image 9](Dishes/FanQieXia.jpg)
+![Test Image 10](Dishes/FanQieXia.jpg)
 
 
 ### Dessert
