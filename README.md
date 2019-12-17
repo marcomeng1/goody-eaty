@@ -39,7 +39,8 @@ It is a user guide for how to make life fantastic
 ### For seafood enthusiasts (ME, for example)
 * 白酒淡菜 Mussel in White-Wine and gringer
 * 红烧或番茄虾 Shrimps in brown sauce or in tomaten sause
-* 
+![Test Image 9](Dishes/FanQieXia.jpg)
+
 
 ### Dessert
 * 麻薯 （Moji） Rice-Cake with red-bean paste
