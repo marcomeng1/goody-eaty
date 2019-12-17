@@ -19,13 +19,13 @@ The following dishes are possible dish-selection within my cooking abilities. On
 * No.2 红烧排骨(Hong Shao Pai Gu)  Pork chops(ribs) in brown sauce(Chinese Style) or in Korean sweet chilli paste with sesame (Korean Style)
 ![Test Image 2](Dishes/HongShaoPaiGu.jpeg)
 
-* No.3 番茄牛腩(Fan Qie Niu Nan)  Stewed Beef-Gluash with tomato and onion (salty, sour and sweet, similar to the taste of Russia borsch)
+* No.3 番茄牛腩(Fan Qie Niu Nan)  Stewed Beef-gulasch with tomato and onion (salty, sour and sweet, similar to the taste of Russia borsch)
 ![Test Image 3](Dishes/FanQieNiuNan.jpg)
 
 * No.4 可乐鸡翅（Ke Le Ji Chi）    Cola chicken-wings （sweet）
 ![Test Image 4](Dishes/KeLeJichi.jpeg)
 
-* No.5 麻婆豆腐 （Ma Po Toufu）    Spicy or (unspicy) tofu with soyabean Sauce and minced pork (spicy or unspicy and salty)
+* No.5 麻婆豆腐 （Ma Po Toufu）    Spicy or (unspicy) tofu with soyabean sauce and minced pork (spicy or unspicy and salty)
 ![Test Image 5](Dishes/MaPoToufu.jpeg)
 
 * No.6 猪肉饺子 （Zhu Rou Jiao Zi） The real chinese dumplings with chopped pork as filling
@@ -36,21 +36,21 @@ The following dishes are possible dish-selection within my cooking abilities. On
 
 
 ### For vegetarian
-* No.8 清炒白菜(Qing Chao Pak Choi) Stir-Fried Green Vegetables （Pak Choi）
+* No.8 清炒白菜(Qing Chao Pak Choi) Stir-fried green vegetables （Pak Choi）
 ![Test Image 7](Dishes/Shanghaiqing.jpg)
 
-* No.9 日式蔬菜沙拉（Ri Shi Shu Cai Sha La） Japanese Vegetable salad (lettuce, radish, unspicy pepper) with sesame and wasabi mixed sause 
+* No.9 日式蔬菜沙拉（Ri Shi Shu Cai Sha La） Japanese vegetable salad (lettuce, radish, unspicy pepper) with sesame and wasabi mixed sause 
 
 ### For seafood enthusiasts
-* No.10 白酒淡菜 Mussel in White-Wine and gringer
+* No.10 白酒淡菜 Mussel in white-wine and ginger
 ![Test Image 9](Dishes/mussel.jpg)
 
-* No.11 红烧或番茄虾 Shrimps in brown sauce or in tomaten sause
+* No.11 红烧或番茄虾 Shrimps in brown sauce or in tomato sause
 ![Test Image 10](Dishes/FanQieXia.jpg)
 
 
 ### Dessert
-* No.12 麻薯 （Moji） Rice-Cake with red-bean paste
+* No.12 麻薯 （Moji） Rice-cake with red-bean paste
 ---
 ![Test Image 8](Dishes/Moiji.jpg)
 
