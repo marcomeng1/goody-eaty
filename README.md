@@ -2,8 +2,8 @@
 My Menu at 80807 SCHWABING-MUNICH -- Version 0.1 powered by my virtue
 ### Description
 It is a user guide for how to make life fantastic
-(ok, it is about the possible dishes THE Chinese Guy gonna prepare and what shaddy stuff can be in it.)
-Possible dish-selection within my cooking abilities.
+(ok, it is about the possible dishes THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be in it.)
+**Possible dish-selection within my cooking abilities.**
 
 !!attenzione: The following picture is the most ideal case.  The chef have the right of interpretations of final dishes! grazie!
 
