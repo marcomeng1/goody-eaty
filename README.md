@@ -4,8 +4,8 @@
 ---
 My Menu at 80807 SCHWABING-MUNICH -- Version 0.1 powered by my virtue
 ### Description
-It is a user guide for how to make life fantastic
-(ok, it is about the possible dishes THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be inside.)
+It is a user guide for how to make our christmas party fantastic
+(ok, it is nothing but just about the possible dishes that THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be inside.)
 
 ### What you gonna do
 The following dishes are possible dish-selection within my cooking abilities. Only a few dishes will be selected in the final around. Write dish-numbers in the [Issue](https://github.com/marcomeng1/goody-eaty/issues) that you prefer, although I decides finally the serving food. It is a life and you have to admit it, just same as the demoracy in my country.
