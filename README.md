@@ -9,7 +9,7 @@ It is a user guide for how to make life fantastic
 
 
 ### For meatarian 
-* 黄焖鸡(Huang Men Ji)       Soya-marinade chicken with Chinese champignon and potatoes. (salty and sweet)
+* 黄焖鸡(Huang Men Ji)       Soya-marinade chicken with Chinese champignon, peppers and potatoes. (salty and sweet)
 ![Test Image 1](Dishes/HuangMenji.jpeg)
 * 红烧排骨(Hong Shao Pai Gu)  Pork chops(ribs) in brown sauce(Chinese Style) or in Korean sweet chilli paste with sesame (Korean Style)
 ![Test Image 2](Dishes/HongShaoPaiGu.jpeg)
