@@ -56,5 +56,5 @@ The following dishes are possible dish-selection within my cooking abilities. On
 
 
 
-### Sonstig
-* Colombian Arepas (if I have time to prepare them :D)
+### Others
+* Colombian Arepas (if I have time to prepare them :D) prepared by [@SamuelBG13](https://github.com/SamuelBG13)
