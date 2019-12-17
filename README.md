@@ -5,7 +5,7 @@ It is a user guide for how to make life fantastic
 (ok, it is about the possible dishes THE Chinese Guy gonna prepare and to show you guys in advance what possible shaddy stuff can be in it.)
 **Possible dish-selection within my cooking abilities.**
 
-!!attenzione: The following picture is the most ideal case.  The chef have the right of interpretations of final dishes! grazie!
+!!attenzione: The following pictures are under the most ideal case. The chef have the right of interpretations of final dishes! grazie!
 
 
 ### For meatarian 
