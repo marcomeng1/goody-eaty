@@ -53,3 +53,8 @@ The following dishes are possible dish-selection within my cooking abilities. On
 * No.12 麻薯 （Moji） Rice-Cake with red-bean paste
 ---
 ![Test Image 8](Dishes/Moiji.jpg)
+
+
+
+### Sonstig
+* Colombian Arepas (if I have time to prepare them :D)
